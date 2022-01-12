@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PuzzleRoyale",
+"productVersion": "1.5.1",
+"dataUrl": "PR88MovesBuild.data.unityweb",
+"wasmCodeUrl": "PR88MovesBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "PR88MovesBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "PR88MovesBuild.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
