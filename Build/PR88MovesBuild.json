@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "PuzzleRoyale",
-"productVersion": "1.5.1",
+"companyName": "Puzzle Royal ",
+"productName": "PuzzleRoyale WebGL",
+"productVersion": "2.0",
 "dataUrl": "PR88MovesBuild.data.unityweb",
 "wasmCodeUrl": "PR88MovesBuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "PR88MovesBuild.wasm.framework.unityweb",
